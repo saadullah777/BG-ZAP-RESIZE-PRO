@@ -1,6 +1,6 @@
-# BG-ZAP-RESIZE-PRO
+# BG_REMOVE 
 One-click AI Background Eraser and Pixel-Perfect Resizer.
-# ⚡ BG-Zap & RESIZE PRO
+# ⚡ BG_REMOVE
 
 A professional, fast, and 100% mobile-responsive web application powered by AI to instantly remove image backgrounds and apply custom resizing simultaneously. Perfect for passport/ID photos, e-commerce sellers, and social media content creators.
 
@@ -28,6 +28,6 @@ A professional, fast, and 100% mobile-responsive web application powered by AI t
 * **AI Engine:** Rembg (ONNX Runtime CPU)
 * **Image Processing:** Pillow (PIL)
 
-   ```bash
+  
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
